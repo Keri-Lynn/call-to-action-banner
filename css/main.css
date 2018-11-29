@@ -36,6 +36,10 @@ body {
 }
 
 .icon {
+  width: 33%;
+}
+
+.content {
   width: 60%;
 }
 

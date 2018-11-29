@@ -27,8 +27,6 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  top: 50%;
-  left: 50%;
   max-width: 45rem;
   padding-right: 1em;
   padding-left: 1em;
